@@ -3,15 +3,15 @@ import { StyleSheet, Text, View } from "react-native";
 export default function Heading() {
   return (
     <View style={styles.headingContainer}>
-      <Text style={styles.heading}> Lista de Compras </Text>
+      <Text style={styles.heading}> Shopping List </Text>
     </View>
   );
 }
 
 const styles = StyleSheet.create({
   headingContainer: {
-    marginTop: 50,
-    padding: 3,
+    marginTop: 30,
+    padding: 10,
     borderRadius: 20,
     backgroundColor: "rgb(200, 190, 200)",
     shadowColor: "rgb(100, 30, 120)",
