@@ -13,7 +13,7 @@
 
 ## Desafío 1 / Crear aplicación Expo
 
-> **Consigna:** Crear una aplicación con Expo CLI con el nombre de tu proyecto, ejecutando los >comandos necesarios para instalar las dependencias, configurarlo y visualizarlo en tu >dispositivo móvil o emulador.
+> **Consigna:** Crear una aplicación con Expo CLI con el nombre de tu proyecto, ejecutando los comandos necesarios para instalar las dependencias, configurarlo y visualizarlo en tu dispositivo móvil o emulador.
 >   - Modifica el texto de la pantalla inicial a "Hola, Coder!"
 
 **Solución:**
