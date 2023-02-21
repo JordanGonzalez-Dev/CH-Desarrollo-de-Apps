@@ -1,26 +1,28 @@
+import { COLORS } from "../constants/colors"
+
 export const CATEGORIES = [
     {
         id: "1",
         title: "Tipo Agua",
-        img: "",
-        color: Colors.primary,
+        img: null,
+        color: COLORS.primary,
     },
     {
         id: "2",
         title: "Tipo Fuego",
-        img: "",
-        color: Colors.secondary,
+        img: null,
+        color: COLORS.secondary,
     },
     {
         id: "3",
         title: "Tipo Planta",
-        img: "",
-        color: Colors.tertiary,
+        img: null,
+        color: COLORS.tertiary,
     },
     {
         id: "4",
         title: "Tipo Tierra",
-        img: "",
-        color: Colors.quaternary,
+        img: null,
+        color: COLORS.quaternary,
     },
 ]
